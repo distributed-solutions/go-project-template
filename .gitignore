@@ -1,3 +1,8 @@
+.idea/
+
+# XXX: Importart! May include critical information
+.env
+
 # Mac OS X files
 .DS_Store
 
