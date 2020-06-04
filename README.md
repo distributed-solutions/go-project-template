@@ -1,4 +1,5 @@
 # Go Project Template
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
 This is a Golang project template used in Distributed Solutions company. Initialy based on basic layout for Go application projects. 
 
@@ -6,6 +7,7 @@ This is a Golang project template used in Distributed Solutions company. Initial
 
 * Help build clean 12-factors apps.
 * Environment and `.env` configuration presets.
+* ChangeLog, EditorConfig support integrated.
 * ...
 
 ## Getting started
@@ -18,6 +20,10 @@ make init
 ```
 
 Thats replace all placeholders and project developing ready to start.
+
+## Changelog
+
+[CHANGELOG.md](https://github.com/distributed-solutions/go-project-template/blob/master/CHANGELOG.md)
 
 ## License
 
